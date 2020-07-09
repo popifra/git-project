@@ -1,0 +1,7 @@
+GIT instructions
+- verify if git is insalled from the command line write git.
+- create a directory for the project
+- inside the directory write init
+
+ADD
+
