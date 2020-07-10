@@ -3,5 +3,7 @@ GIT instructions
 - create a directory for the project
 - inside the directory write init
 
-ADD
+git add
+git commit
+
 
